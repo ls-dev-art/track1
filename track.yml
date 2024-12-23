@@ -1,15 +1,17 @@
-slug: untitled-track-pbl2ey
+slug: untitled-track-pbl2ey1
 id: nd4xd3f6odph
 revision: 1
-title: Untitled Track
-description: ""
+title: Untitled Track 1
+description: k
 icon: ""
 tags: []
 owner: hashicorp
 developers:
 - lovro@instruqt.com
 instructors: []
-idle_timeout: 300
+maintenance: true
+skipping_enabled: true
+idle_timeout: 0
 timelimit: 1200
 lab_config:
   extend_ttl: 0
@@ -17,4 +19,4 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  loadingMessages: true
+  loadingMessages: false
