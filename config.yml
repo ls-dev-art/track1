@@ -1,1 +1,9 @@
 version: "3"
+containers:
+- name: bash
+  image: bash
+  ports:
+  - 8080
+  memory: 64
+  resources:
+    memory: 64
